@@ -161,7 +161,7 @@ This example-rich guide will introduce you to neural networks and deep learning,
 * [11.2. Asynchronous RL framework](#)
 * [11.3. Asynchronous one step Q and SARSA learning](#)
 * [11.4. Asynchronous advantage over actor critic](#)
-* [11.5. Building intelligent doom game using A3C algorithm(#)
+* [11.5. Building intelligent doom game using A3C algorithm](#)
 
 
 
