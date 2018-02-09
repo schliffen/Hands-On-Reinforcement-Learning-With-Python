@@ -18,18 +18,11 @@ This example-rich guide will introduce you to neural networks and deep learning,
 
 <br>
 
-# Get the Book
-<div>
-<a target="_blank" href="https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python">
-  <img src="./images/packt_logo.png" alt="Packt" align="left"/>
-</a>
-<a target="_blank" href="https://www.amazon.com/dp/B079Q3WLM4/ref=sr_1_1?ie=UTF8&qid=1518175121&sr=8-1&keywords=hands+on+reinforcement+learning+with+python">
-  <img src="./images/-1.png" alt="Amazon" align="left"/>
-</a>
-<br>
-</div>
+# Buy the Book
 
-<br>
+* [Get it on Amazon](https://www.amazon.com/dp/B079Q3WLM4/ref=sr_1_1?ie=UTF8&qid=1518175121&sr=8-1&keywords=hands+on+reinforcement+learning+with+python)
+* [Get it on Packt](https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python)
+
 
 # Contents
 
