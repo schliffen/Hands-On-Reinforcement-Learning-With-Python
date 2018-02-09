@@ -46,3 +46,15 @@ This example-rich guide will introduce you to neural networks and deep learning,
 * [1.7. Reinforcement Learning Platforms](#)
 * [1.8. Applications](#)
 
+
+### [Chapter 2 : Getting Started with OpenAI and Tensorflow](#)
+
+* [2.1. Setting Up Your Machine](#)
+* [2.2. Installing Anaconda and Docker](#)
+* [2.3. Installationg OpenAI Gym and Universe](#)
+* [2.4. OpenAI Gym Basics](#)
+* [2.5. Training a Robot to walk using Gym](#)
+* [2.6. OpenAI Gym Universe](#)
+* [2.7. Building a Video Game Bot using Universe](#)
+* [2.8. Tensorflow Installation and Fundamentals](#)
+
