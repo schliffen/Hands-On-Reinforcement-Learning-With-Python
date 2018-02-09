@@ -28,3 +28,13 @@ This example-rich guide will introduce you to neural networks and deep learning,
 </a>
 <br>
 </div>
+
+<br>
+
+# Contents
+
+
+
+### [Chapter 1 : A Tour of Interactive Computing with Jupyter and IPython](#)
+
+* [1.1. Introducing IPython and the Jupyter Notebook](#)
