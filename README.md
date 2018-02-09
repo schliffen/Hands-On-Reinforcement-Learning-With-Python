@@ -24,7 +24,7 @@ This example-rich guide will introduce you to neural networks and deep learning,
   <img src="./images/packt_logo.png" alt="Packt" align="left"/>
 </a>
 <a target="_blank" href="https://www.amazon.com/dp/B079Q3WLM4/ref=sr_1_1?ie=UTF8&qid=1518175121&sr=8-1&keywords=hands+on+reinforcement+learning+with+python">
-  <img src="./images/amazon-1.png" alt="Amazon" align="left"/>
+  <img src="./images/-1.png" alt="Amazon" align="left"/>
 </a>
 <br>
 </div>
@@ -35,6 +35,14 @@ This example-rich guide will introduce you to neural networks and deep learning,
 
 
 
-### [Chapter 1 : A Tour of Interactive Computing with Jupyter and IPython](#)
+### [Chapter 1 : Introduction to Reinforcement Learning](#)
 
-* [1.1. Introducing IPython and the Jupyter Notebook](#)
+* [1.1. What is Reinforcement Learning](#)
+* [1.2. Reinforcement Learning Cycle](#)
+* [1.3. How RL differs from other ML paradigms](#)
+* [1.4. Elements of Reinforcement Learning](#)
+* [1.5. Agent Environment Interface](#)
+* [1.6. Types of RL Environments](#)
+* [1.7. Reinforcement Learning Platforms](#)
+* [1.8. Applications](#)
+
